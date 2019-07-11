@@ -1,0 +1,1 @@
+@java -cp %~dp0\jgit.sh org.eclipse.jgit.pgm.Main %*
